@@ -1,7 +1,9 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Ethan Davidson, Electrical Engineering student since 2023 to 2027
+ethand04@vt.edu
 
+Lucas Wood, Robotics and Mechatronics student since 2023 to 2027
+lucasw@vt.edu
 ## Mentor
 MENTOR NAME HERE
 
@@ -10,19 +12,28 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+We want to design and build an RC car from scratch. We are designing our car with speed, efficiency, and functionality in mind. We intend to design a regenerative braking system, an all wheel drive drive train, and extended functionality as we build on to the design. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+By designing and building an RC car we will both gain experience in fields we are pursuing. As an Electrical Engineer I plan to tackle a lot of the power and communication systems of the car, and with Lucas as a Robotics and Mechatronics Engineer he will design some of the regenerative braking system, power delivery, and suspension systems. We plan to tackle the problems working together just with one of us taking charge. This way I will be able to learn a lot about the suspension and drive train of the vehichle, while Lucas will learn a lot about the electrical efficiency and communication between the remote and car. This project is something we are both very excited to work on and feel we have the resources and knowledge necessary to see this project through. We will learn a lot as we dive deeper into the project's complexity.
 
 ## Tasks
-
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+We have split the project in to smaller tasks that we can get done as we progress. so far 
+
+1. Manufacturing Plan with basic design and what parts we may need considering all parts
+2. Chassis and Basic Drive Train Design 
+3. Regenerative Braking Implementation Design
+4. Design Controller and Reciever 
 
 ## Design Decisions
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+1. We have decided to go with an AWD Drive Train.
+2. We would like to implement a Regenerative Braking System.
+3. We would like to use a heavy/sturdy material for the body.
+
 
 ## Design Misc
 
@@ -31,6 +42,7 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Steps for Documenting Your Design Process
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+We have multiple docs and spreadsheets outlining the different parts of the rc car we would need 
 
 ## BOM + Component Cost
 
@@ -39,6 +51,7 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Timeline
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+We dont have a completed timeline yet, but we want to hopefully be completed with a first design by the end of this semester
 
 ## Useful Links
 

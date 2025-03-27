@@ -5,7 +5,7 @@ ethand04@vt.edu
 Lucas Wood, Robotics and Mechatronics student since 2023 to 2027
 lucasw@vt.edu
 ## Mentor
-MENTOR NAME HERE
+Rusty Stewart
 
 ## Current Status
 IN PROGRESS

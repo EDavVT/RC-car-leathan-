@@ -44,12 +44,19 @@ We have split the project in to smaller tasks that we can get done as we progres
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 We have multiple docs and spreadsheets outlining the different parts of the rc car we would need 
 
+
 ## BOM + Component Cost
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Timeline
+in the next few weeks I want to get the pi to esc configuration working so that the pi is able to recieve wireless signals, and give them to the esc to dictate how the car will run
+the next step is to get all of the components running on a single battery and printing a container or way the pi, and esc will be heldstill in the chassis of the car. 
+I then want to configure the pi to work with the servo to handle steering, and implement new control features into the design of the cars software.
 
+Lucas has designed rear components for holding the wheels, differential, and connectors to deliver power.
+in the next few weeks he plans to have designed the chassis, and move forward on designing the components for the front wheels.
+By the end of the summer he wants to have completed the basic design for all components so that we can begin testing what designs work better and tweaking the look of the car.
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 We dont have a completed timeline yet, but we want to hopefully be completed with a first design by the end of this semester
 
